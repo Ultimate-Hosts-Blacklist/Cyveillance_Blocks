@@ -1,5 +1,8 @@
 {
-    "/home/travis/build/Ultimate-Hosts-Blacklist/Cyveillance_Blocks/domains.list": {
+    "api_call": {
+        "1557533284": [
+            "38.100.21.0/24"
+        ],
         "to_test": []
     }
 }
