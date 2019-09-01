@@ -1,23 +1,21 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Aug 30 06:44:07 2019",
-    "end_epoch": 1567147447.352008,
+    "end_datetime": "Sun Sep  1 06:47:44 2019",
+    "end_epoch": 1567320464.666401,
     "name": "Cyveillance_Blocks",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 16,
         "counter": {
             "down": 0,
             "invalid": 0,
             "tested": 16,
             "up": 16
         },
-        "domains.list": 16,
         "volatile.list": 16,
         "whitelisted.list": 16
     },
     "raw_link": "",
-    "start_datetime": "Fri Aug 30 06:44:01 2019",
-    "start_epoch": 1567147441.068798
+    "start_datetime": "Sun Sep  1 06:47:38 2019",
+    "start_epoch": 1567320458.150546
 }
