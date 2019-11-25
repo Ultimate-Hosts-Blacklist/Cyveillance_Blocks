@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Nov 23 08:04:34 2019",
-    "end_epoch": 1574496274.775953,
+    "end_datetime": "Mon Nov 25 08:16:36 2019",
+    "end_epoch": 1574669796.280393,
     "name": "Cyveillance_Blocks",
     "previous_stats": {
         "builds": 1,
@@ -18,6 +18,6 @@
         "whitelisted.list": 16
     },
     "raw_link": "",
-    "start_datetime": "Sat Nov 23 08:04:33 2019",
-    "start_epoch": 1574496273.637942
+    "start_datetime": "Mon Nov 25 08:16:35 2019",
+    "start_epoch": 1574669795.234782
 }
