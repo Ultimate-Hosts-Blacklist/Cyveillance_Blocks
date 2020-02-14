@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Feb 14 08:55:54 2020",
-    "end_epoch": 1581670554.91958,
+    "end_datetime": "Fri Feb 14 10:58:38 2020",
+    "end_epoch": 1581677918.855919,
     "name": "Cyveillance_Blocks",
     "previous_stats": {
         "builds": 1,
@@ -18,6 +18,6 @@
         "whitelisted.list": 16
     },
     "raw_link": "",
-    "start_datetime": "Fri Feb 14 08:55:52 2020",
-    "start_epoch": 1581670552.325025
+    "start_datetime": "Fri Feb 14 10:58:35 2020",
+    "start_epoch": 1581677915.862717
 }
