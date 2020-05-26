@@ -19,10 +19,10 @@
         },
         "domains.list": 16,
         "ip.list": 16,
-        "volatile.list": 16,
+        "volatile.list": 32,
         "whitelisted.list": 16
     },
     "raw_link": "",
-    "start_datetime": "2020-05-24T14:46:05.187510",
-    "start_epoch": 1590331565.18751
+    "start_datetime": "2020-05-26T11:28:29.407823",
+    "start_epoch": 1590492509.407823
 }
