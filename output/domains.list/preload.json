@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/Cyveillance_Blocks/Cyveillance_Blocks/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "c4ecfe086749435af8b9bea0b089fb2bb442597ab4fd1e224b7e20bd",
+    "line_number": 17,
+    "output_dir": "/home/runner/work/Cyveillance_Blocks/Cyveillance_Blocks/output/domains.list",
+    "previous_hash": "c4ecfe086749435af8b9bea0b089fb2bb442597ab4fd1e224b7e20bd",
+    "rel_source": "domains.list",
+    "session_id": "288a79f79193a99841674906",
+    "source": "/home/runner/work/Cyveillance_Blocks/Cyveillance_Blocks/domains.list",
+    "subject": "/home/runner/work/Cyveillance_Blocks/Cyveillance_Blocks/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
