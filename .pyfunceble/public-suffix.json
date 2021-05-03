@@ -7189,7 +7189,6 @@
         "pomorskie.pl",
         "pomorze.pl",
         "poniatowa.pl",
-        "powiat.pl",
         "poznan.pl",
         "priv.pl",
         "prochowice.pl",
@@ -7577,6 +7576,7 @@
         "org.se",
         "p.se",
         "parti.se",
+        "powiat.pl",
         "pp.se",
         "press.se",
         "r.se",
@@ -7999,6 +7999,7 @@
         "crimea.ua",
         "cv.ua",
         "cx.ua",
+        "dn.ua",
         "dnepropetrovsk.ua",
         "dnipropetrovsk.ua",
         "donetsk.ua",
@@ -8518,7 +8519,6 @@
     "zw": [
         "ac.zw",
         "co.zw",
-        "dn.ua",
         "gov.zw",
         "mil.zw",
         "org.zw"
