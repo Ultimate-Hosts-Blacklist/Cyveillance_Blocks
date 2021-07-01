@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "6fbafd1d64cbbc7b5ca37e65951e6825574f1b6db48b7e3a2bacf899",
+    "line_number": 17,
+    "output_dir": "/home/runner/work/Cyveillance_Blocks/Cyveillance_Blocks/output/domains.list",
+    "previous_hash": "6fbafd1d64cbbc7b5ca37e65951e6825574f1b6db48b7e3a2bacf899",
+    "session_id": "7ca76ee2a8b557e0febf570d",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
