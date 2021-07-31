@@ -999,6 +999,7 @@
         "codespot.com",
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
+        "copro.uk",
         "customer-oci.com",
         "customer.mythic-beasts.com",
         "damnserver.com",
@@ -5541,6 +5542,7 @@
         "aero.mv",
         "biz.mv",
         "com.mv",
+        "coop.mv",
         "edu.mv",
         "gov.mv",
         "info.mv",
@@ -6334,7 +6336,6 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
-        "org.sz",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -7850,7 +7851,6 @@
     "sz": [
         "ac.sz",
         "co.sz",
-        "coop.mv",
         "org.sz"
     ],
     "tc": [
