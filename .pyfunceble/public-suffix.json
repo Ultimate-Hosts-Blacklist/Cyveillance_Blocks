@@ -1832,8 +1832,7 @@
     ],
     "events": [
         "co.events",
-        "koobin.events",
-        "read-books.org"
+        "koobin.events"
     ],
     "faith": [
         "ybo.faith"
@@ -2379,6 +2378,7 @@
         "co.ir",
         "gov.ir",
         "id.ir",
+        "miyazaki.jp",
         "net.ir",
         "org.ir",
         "sch.ir",
@@ -2498,6 +2498,7 @@
         "cloud.jelastic.open.tim.it",
         "cn.it",
         "co.it",
+        "co.kr",
         "como.it",
         "cosenza.it",
         "cr.it",
@@ -5990,6 +5991,7 @@
         "onavstack.net",
         "ownip.net",
         "pages.torproject.net",
+        "pdns.page",
         "pgafan.net",
         "podzone.net",
         "privatizehealthinsurance.net",
