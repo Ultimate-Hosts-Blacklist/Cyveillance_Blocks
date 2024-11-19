@@ -13,9 +13,6 @@
     "academy": [
         "official.academy"
     ],
-    "ad": [
-        "nom.ad"
-    ],
     "ae": [
         "ac.ae",
         "blogspot.ae",
@@ -285,7 +282,6 @@
         "edu.au",
         "gov.au",
         "id.au",
-        "info.au",
         "mel.cloudlets.com.au",
         "myspreadshop.com.au",
         "net.au",
@@ -525,7 +521,6 @@
         "myftp.biz",
         "no-ip.biz",
         "orx.biz",
-        "pub.sa",
         "selfip.biz",
         "webhop.biz"
     ],
@@ -2333,7 +2328,6 @@
         "myspreadshop.de",
         "pages-research.it.hs-heilbronn.de",
         "pages.it.hs-heilbronn.de",
-        "pub.sa",
         "schulplattform.de",
         "schulserver.de",
         "spdns.de",
@@ -3139,13 +3133,7 @@
         "ایران.ir"
     ],
     "is": [
-        "blogspot.is",
-        "com.is",
-        "edu.is",
-        "gov.is",
-        "int.is",
-        "net.is",
-        "org.is"
+        "blogspot.is"
     ],
     "it": [
         "123homepage.it",
@@ -4211,6 +4199,7 @@
         "kanan.osaka.jp",
         "kanazawa.ishikawa.jp",
         "kanegasaki.iwate.jp",
+        "kaneyama.fukushima.jp",
         "kaneyama.yamagata.jp",
         "kani.gifu.jp",
         "kanie.aichi.jp",
@@ -6027,8 +6016,7 @@
         "mil.my",
         "name.my",
         "net.my",
-        "org.my",
-        "pub.sa"
+        "org.my"
     ],
     "mz": [
         "ac.mz",
@@ -7303,7 +7291,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "kaneyama.fukushima.jp",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -7550,6 +7537,7 @@
     "page": [
         "aem.page",
         "codeberg.page",
+        "heyflow.page",
         "hlx.page",
         "hlx3.page",
         "pdns.page",
@@ -7762,7 +7750,6 @@
         "prochowice.pl",
         "pruszkow.pl",
         "przeworsk.pl",
-        "psp.gov.pl",
         "psse.gov.pl",
         "pulawy.pl",
         "pup.gov.pl",
@@ -8211,6 +8198,7 @@
         "fastvps.site",
         "fnwk.site",
         "folionetwork.site",
+        "heyflow.site",
         "jele.site",
         "jouwweb.site",
         "lelux.site",
@@ -8944,6 +8932,7 @@
         "platterp.us",
         "pointto.us",
         "pr.us",
+        "psp.gov.pl",
         "pvt.k12.ma.us",
         "ri.us",
         "sc.us",
