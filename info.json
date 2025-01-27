@@ -1,17 +1,17 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2025-01-26T02:32:27.667049",
-    "end_epoch": 1737858747.667049,
+    "end_datetime": "2025-01-27T02:36:07.207237",
+    "end_epoch": 1737945367.207237,
     "name": "Cyveillance_Blocks",
-    "previous_end_datetime": "2025-01-25T02:40:18.277477",
-    "previous_end_epoch": 1737772818.277477,
-    "previous_start_datetime": "2025-01-25T02:37:56.217385",
-    "previous_start_epoch": 1737772676.217385,
+    "previous_end_datetime": "2025-01-26T02:32:27.667049",
+    "previous_end_epoch": 1737858747.667049,
+    "previous_start_datetime": "2025-01-26T02:30:05.204634",
+    "previous_start_epoch": 1737858605.204634,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2025-01-26T02:30:05.204634",
-    "start_epoch": 1737858605.204634
+    "start_datetime": "2025-01-27T02:33:45.186291",
+    "start_epoch": 1737945225.186291
 }
